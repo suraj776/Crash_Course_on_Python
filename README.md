@@ -1,9 +1,10 @@
 # Crash_Course_on_Python
-To run this codes install python on your system if it windows or mac, for linux python is preinstalled
-you have to create different files with extension .py fo each program or you can run them in one as you wish.Then
-navigate to directory having files.
-Type chmod a+x hello.py(file name.extension) to tell Linux that it is an executable program.
-Type ./hello.py(file name.extension) to run your program! 
+To run this codes
+1.install python on your system if it windows or mac, for linux python is preinstalled
+2.you have to create different files with extension .py fo each program or you can run them in one as you wish.Then
+3.navigate to directory having files.
+4.Type chmod a+x hello.py(file name.extension) to tell Linux that it is an executable program.
+5.Type ./hello.py(file name.extension) to run your program! 
 -------------------------------------------
  OR
  -----------------
